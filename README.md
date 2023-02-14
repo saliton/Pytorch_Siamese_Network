@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Pytorch_Siamese_Network/blob/main/PyTorchでシンプルなSiamese_Networkをつくる.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/Pytorch_Siamese_Network/blob/main/PyTorchでシンプルなSiamese_Networkをつくる.ipynb)
 
 # PyTorchでシンプルなSiamese Networkをつくる
 
